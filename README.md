@@ -1,0 +1,43 @@
+```json
+{
+    "root":[
+		{"home":[
+			{"black-hole":[
+				{"Desktop":[
+					"gnome-terminal.desktop",
+					"lantern",
+					"视频录制.desktop",
+					"迅雷精简版.desktop"
+				]},
+				{"Downloads":[
+					"adsafe-v2.0.0.crx",
+					"KeeWeb-1.3.1.linux.x64.deb",
+					"mongodb-linux-x86_64-debian81-3.2.9.tgz",
+					"bcloud_3.8.2-1_all.deb",
+					"koala_2.0.4_amd64.deb"
+				]},
+				{"Videos":[
+					"蝙蝠侠大战超人.mp4",
+					"疯狂的麦克斯4：狂暴之路.mp4",
+					"惊天魔盗团2.mp4",
+					{
+						"情书":[
+							"Love.Letter.1995.BluRay.720p.DTS.x264-CHD.chs.srt",
+							"情书.mkv"
+						],
+						"超脑48小时":[
+							"Criminal.2016.720p.BluRay.x264-GECKOS.chs.ass",
+							"超脑48小时.mkv"
+						]
+					}
+				]}
+			]},
+			{"wwwlogs":[]}
+		]}
+	],
+	"asd":[
+		"index.html",
+		"1.txt"
+	]
+}
+```
